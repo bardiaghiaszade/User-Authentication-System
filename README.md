@@ -385,9 +385,7 @@ User-Authentication-System/
 │       ├── verifycode.js
 │       ├── resetPassword.js
 │       ├── password.js
-│       ├── theme.js
-│       ├── chart.js
-│       └── dashbord.js
+│       └── theme.js
 │
 └── templates/
     ├── login.html
@@ -423,8 +421,6 @@ User-Authentication-System/
 | `static/js/resetPassword.js` | New password submission |
 | `static/js/password.js` | Password-related interface functionality |
 | `static/js/theme.js` | Theme switching |
-| `static/js/chart.js` | Dashboard chart |
-| `static/js/dashbord.js` | Dashboard JavaScript file |
 
 ---
 
