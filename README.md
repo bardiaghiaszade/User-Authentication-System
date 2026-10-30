@@ -349,7 +349,6 @@ Some application events are recorded, including successful login, failed login a
 | Werkzeug | Password hashing |
 | python-dotenv | Environment variable loading |
 | smtplib | Sending emails |
-| Chart.js | Dashboard chart |
 | Git | Version control |
 
 ---
