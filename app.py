@@ -69,7 +69,7 @@ def verify_code_page():
     if not session.get("reset_user_id"):
         return redirect("/forgot-password")
 
-    return render_template("verifyCode.html")
+    return render_template("verifycode.html")
 
 
 @app.route("/dashboard")
